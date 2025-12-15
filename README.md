@@ -7,7 +7,7 @@
 <div style="line-height: 0;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=30&pause=1000&width=475&height=44&lines=Hey%F0%9F%91%8B%2C+I'm+Jessel+Ann!;Frontend+%2F+Mobile+Developer;Always+learning+%26+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=800&size=30&pause=1000&color=02CF5A&width=475&height=44&lines=Hey%F0%9F%91%8B%2C+I'm+Jessel+Ann!;Frontend+%2F+Mobile+Developer;Always+learning+%26+building" alt="Typing SVG" />
   </a>
 </div>
 
