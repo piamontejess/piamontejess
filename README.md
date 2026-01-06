@@ -34,7 +34,7 @@ Currently, I’m working on **multi-tenant barangay systems**, **web + mobile ap
 # 💻 Tech Stack  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,php,laravel,nodejs,html,css,tailwind,python,java,c,cpp,cs,mysql,postgres,mongodb,git,github,figma,vite,supabase,docker,arduino,wordpress,ps,pr,ae,ai&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,php,laravel,nodejs,html,css,tailwind,python,java,c,cpp,cs,mysql,postgres,mongodb,git,github,figma,vite,supabase,arduino,ps,pr,ae,ai&perline=12" />
   </a>
 </p>
 
